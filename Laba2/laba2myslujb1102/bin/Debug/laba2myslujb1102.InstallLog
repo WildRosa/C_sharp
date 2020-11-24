@@ -1,0 +1,26 @@
+﻿Выполняется установка сборки 'C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe
+   logfile = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe.
+Выполняется фиксация сборки 'C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe
+   logfile = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.InstallLog
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe
+   logfile = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.InstallLog
+Устанавливается служба Unlimitedslujbaworks...
+Служба Unlimitedslujbaworks успешно установлена.
+Создается исходный EventLog Unlimitedslujbaworks в журнале Application...
+Выполняется фиксация сборки 'C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe
+   logfile = C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.InstallLog

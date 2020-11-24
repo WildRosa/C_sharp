@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe.config
+C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.exe
+C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\bin\Debug\laba2myslujb1102.pdb
+C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\obj\Debug\laba2myslujb1102.csprojAssemblyReference.cache
+C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\obj\Debug\laba2myslujb1102.exe
+C:\Users\User\source\repos\laba2myslujb1102\laba2myslujb1102\obj\Debug\laba2myslujb1102.pdb
